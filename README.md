@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/raivo-otp/ios-application/master/Assets/appstore-previews/Apple%20iPhone%2011%20Pro%20Max%20(1242x2688)/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%202.png?cache=5" width="265">
 </p>
 
-## Features
+## Raivo Features
 
 * Backup/sync (T/H)OTPs to iCloud automagically
 * Add custom issuer icons for your OTPs
@@ -35,6 +35,7 @@
 * It's fast (native, built in Swift 5)
 * It's secure (see the [security policy](https://github.com/raivo-otp/ios-application/blob/master/SECURITY.md) for more information)
 * It's open-source (check the [contribution policy](https://github.com/raivo-otp/ios-application/blob/master/CONTRIBUTING.md))
+* You can choose themes easyly in you Raivo apps
 
 ## Icons
 
